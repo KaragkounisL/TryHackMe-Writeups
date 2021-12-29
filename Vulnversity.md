@@ -68,7 +68,7 @@ Then clear § and add § on the filename="hello.§php§" and start the attack. T
 
 - Download php-reverse-shell from [here](https://github.com/pentestmonkey/php-reverse-shell/blob/master/php-reverse-shell.php).
 
-- Make a copy as php.reverse-shell.phtml. 
+- Make a copy as php-reverse-shell.phtml. 
 
 - Open the file and edit the $ip = '127.0.0.1' with your machine's ip. If you dont know what is your ip, type ifconfig and check the tun0 interface.
 
